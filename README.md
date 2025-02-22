@@ -15,4 +15,4 @@ This project is a basic neural network implemented in Python using NumPy for eff
 
 The implementation is written in Python, leveraging NumPy for numerical operations. You can find the complete code in the `Neuroscience_project.py` file.
 
-![DALL·E 2025-02-22 22 33 43 - A hyper-realistic and highly detailed tech-inspired logo for 'Khaled Ali'  The design features the letters 'K' and 'A' seamlessly fused into a single, - Copy](https://github.com/user-attachments/assets/bba952fe-f3ab-4d49-8d85-a9cfffb8a1f0)
+![DALL·E 2025-02-22 22 33 43 - A hyper-realistic and highly detailed tech-inspired logo for 'Khaled Ali'  The design features the letters 'K' and 'A' seamlessly fused into a single, - Copy](https://github.com/user-attachments/assets/aa282b9e-6705-459f-bd4d-c7df2c526f22)
