@@ -1,6 +1,7 @@
+![DALL·E 2025-02-22 22 49 00 - A realistic, smaller, wide illustration representing a neural network implementation for a README file  Show a lifelike 3D rendering of a neural netwo](https://github.com/user-attachments/assets/ba5e8678-bc12-418a-8c01-6a60990dd028)
+tion
 
-# Neural Network Implementation
-
+# Neural Network Implementa
 This project is a basic neural network implemented in Python using NumPy for efficient matrix operations. It takes two input values and processes them through a hidden layer to compute the final output using randomly initialized weights and biases.
 
 ## Features
